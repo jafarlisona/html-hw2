@@ -1,0 +1,15 @@
+body{
+    background-image: url(https://images.pexels.com/photos/17230026/pexels-photo-17230026.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: 16%;
+}
+h1{
+    text-align: center;
+    margin-top: 45vh;
+    font-size: 70px;
+    font-family: monospace;
+    font-variant-caps: all-petite-caps;
+    color: #ffba2f;
+    text-shadow: 5px 7px 8px #000000;
+}
